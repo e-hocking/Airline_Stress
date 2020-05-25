@@ -11,6 +11,7 @@ Stressor Considered:
 - Delays
 - Cancellations
 - Diverted Flights <br> <br>
+
 The model determined the least stressful flight is from JFK on a Delta flight between 6am and 7am. <br>
 In general it was found that an earlier flight would be least stressful probably since it isn't impacted by a backlog of flights. A flight later in the day could have an increased chance of being delayed if another flight was delayed in the day.
 
