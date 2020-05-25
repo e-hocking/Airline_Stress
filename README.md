@@ -1,8 +1,16 @@
 # Airline_Stress
 Mathematic Model Minimize Airline Stress 
 
-The model minimizes the stress to take a flight from New York City to San Francisco. <br>
-Variables included which airport to leave from (ie EWR, JFK, LGA), which airline to take, as well as the time of the flight. <br>
+The model minimizes the stress to take a flight from New York City to San Francisco. <br> <br>
+Variables included: <br> 
+- which airport to leave from (ie EWR, JFK, LGA)
+- which airline to take
+- time of the flight <br>
+
+Stressor Considered:
+- Delays
+- Cancellations
+- Diverted Flights <br> <br>
 The model determined the least stressful flight is from JFK on a Delta flight between 6am and 7am. <br>
 In general it was found that an earlier flight would be least stressful probably since it isn't impacted by a backlog of flights. A flight later in the day could have an increased chance of being delayed if another flight was delayed in the day.
 
